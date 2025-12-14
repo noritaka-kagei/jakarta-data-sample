@@ -19,7 +19,7 @@ Follow these steps to set up, build, deploy, and verify the application.
 Ensure you have the following installed:
 - **Java JDK 21**
 - **Maven 3.9+** (Required for building the application)
-- **Docker Desktop** (for database)
+- **Container Engine** (for database)
 - **GlassFish 8 Server**
 
 ### 2. Database Setup
