@@ -53,7 +53,7 @@ If you prefer using a local installation, ensure you have:
 
 3.  **Deploy the WAR file**:
     ```bash
-    asadmin deploy --force target/jakarta-data-sample.war
+    asadmin deploy target/jakarta-data-sample.war
     ```
 
 ### 4. Verification
